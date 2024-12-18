@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021739763941",
+    "project_id": "tatari-4d1a6",
+    "storage_bucket": "tatari-4d1a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021739763941:android:46560c5d6902c770002c0c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3RAADSQxvh1ELS8vs1S_LGhStUDVI27U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
